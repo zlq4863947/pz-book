@@ -15,4 +15,4 @@
 ## 本项目地址
 
 - 仓库：[https://github.com/zlq4863947/pz-book](https://github.com/zlq4863947/pz-book)
-- 在线阅读：[https://b.aitrade.ga/books/pz-book/](https://b.aitrade.ga/books/pz-book)
+- 在线阅读：[https://zlq4863947.github.io/pz-book/](https://zlq4863947.github.io/pz-book/)
