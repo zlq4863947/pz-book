@@ -1,0 +1,52 @@
+{
+  "title": "僵尸毁灭工程攻略手册",
+  "description": "僵尸毁灭工程攻略手册",
+  "language": "zh",
+  "plugins": [
+    "github",
+    "github-buttons",
+    "splitter",
+    "sitemap",
+    "donate",
+    "livere"
+  ],
+  "pluginsConfig": {
+    "livere": {
+      "uid": "MTAyMC8zNTIyNC8xMTc2MA=="
+    },
+    "github": {
+      "url": "https://github.com/zlq4863947/pz-book"
+    },
+    "github-buttons": {
+      "buttons": [
+        {
+          "user": "zlq4863947",
+          "repo": "pz-book",
+          "type": "star",
+          "size": "small",
+          "count": true
+        },
+        {
+          "user": "zlq4863947",
+          "repo": "pz-book",
+          "type": "fork",
+          "size": "small",
+          "count": true
+        }
+      ]
+    },
+    "donate": {
+      "wechat": "https://b.aitrade.ga/books/pz-book/images/weixin.png",
+      "alipay": "https://b.aitrade.ga/books/pz-book/images/alipay.png",
+      "button": "赏",
+      "alipayText": "支付宝打赏",
+      "wechatText": "微信打赏"
+    },
+    "sitemap": {
+      "hostname": "https://b.aitrade.ga/books/pz-book/"
+    },
+    "styles": {
+      "website": "styles/website.css"
+    }
+  }
+}
