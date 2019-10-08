@@ -36,8 +36,8 @@
       ]
     },
     "donate": {
-      "wechat": "https://b.aitrade.ga/books/pz-book/images/weixin.png",
-      "alipay": "https://b.aitrade.ga/books/pz-book/images/alipay.png",
+      "wechat": "https://raw.githubusercontent.com/zlq4863947/pz-book/master/images/weixin.png",
+      "alipay": "https://raw.githubusercontent.com/zlq4863947/pz-book/master/images/alipay.png",
       "button": "赏",
       "alipayText": "支付宝打赏",
       "wechatText": "微信打赏"
