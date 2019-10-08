@@ -1,0 +1,29 @@
+{
+  "name": "pz-book",
+  "version": "1.0.0",
+  "description": "僵尸毁灭工程-全攻略手册",
+  "dependencies": {
+    "gitbook-cli": "^2.3.2",
+    "gitbook-plugin-donate": "^1.0.2",
+    "gitbook-plugin-github": "^2.0.0",
+    "gitbook-plugin-github-buttons": "^3.0.0",
+    "gitbook-plugin-livere": "^0.1.4",
+    "gitbook-plugin-sitemap": "^1.2.0",
+    "gitbook-plugin-splitter": "^0.0.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "gitbook serve",
+    "deploy": "git subtree push --prefix _book origin gh-pages"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zlq4863947/pz-book.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zlq4863947/pz-book/issues"
+  },
+  "homepage": "https://github.com/zlq4863947/pz-book#readme"
+}

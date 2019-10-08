@@ -1,0 +1,62 @@
+Arguments: 
+  /Users/yuukisyaku/.config/nvm/10.16.0/bin/node /usr/local/Cellar/yarn/1.19.0/libexec/bin/yarn.js add gitbook0cli
+
+PATH: 
+  /Users/yuukisyaku/.config/nvm/10.16.0/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/share/dotnet:~/.dotnet/tools:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Users/yuukisyaku/pro/game/pz/pz-book/node_modules/.bin
+
+Yarn version: 
+  1.19.0
+
+Node version: 
+  10.16.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: https://registry.npmjs.org/gitbook0cli: Not found
+      at Request.params.callback [as _callback] (/usr/local/Cellar/yarn/1.19.0/libexec/lib/cli.js:66918:18)
+      at Request.self.callback (/usr/local/Cellar/yarn/1.19.0/libexec/lib/cli.js:140539:22)
+      at Request.emit (events.js:198:13)
+      at Request.<anonymous> (/usr/local/Cellar/yarn/1.19.0/libexec/lib/cli.js:141511:10)
+      at Request.emit (events.js:198:13)
+      at IncomingMessage.<anonymous> (/usr/local/Cellar/yarn/1.19.0/libexec/lib/cli.js:141433:12)
+      at Object.onceWrapper (events.js:286:20)
+      at IncomingMessage.emit (events.js:203:15)
+      at endReadableNT (_stream_readable.js:1129:12)
+      at process._tickCallback (internal/process/next_tick.js:63:19)
+
+npm manifest: 
+  {
+    "name": "pz-book",
+    "version": "1.0.0",
+    "description": "僵尸毁灭工程-全攻略手册",
+    "dependencies": {
+      "gitbook-plugin-github": "^2.0.0",
+      "gitbook-plugin-github-buttons": "^3.0.0",
+      "gitbook-plugin-donate": "^1.0.2",
+      "gitbook-plugin-sitemap": "^1.2.0",
+      "gitbook-plugin-splitter": "^0.0.8",
+      "gitbook-plugin-livere": "^0.1.4"
+    },
+    "devDependencies": {},
+    "scripts": {
+      "start": "gitbook serve"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/zlq4863947/pz-book.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/zlq4863947/pz-book/issues"
+    },
+    "homepage": "https://github.com/zlq4863947/pz-book#readme"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
