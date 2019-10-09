@@ -99,7 +99,7 @@
 | ![](/images/traits/trait_disorganized.png) | 缺乏条理 | 有条理 | +4     |  降低容器库存能力  |  所有容器的容量-30%，包括衣柜  |
 | ![](/images/traits/trait_emaciated.png) | 瘦弱 | - | -     |  低强度、低耐力、易受伤  |  仅存在于体重小于50，当体重到35开始产生损害  |
 | ![](/images/traits/trait_feeble.png) | 软弱 | 壮硕、强壮、虚弱 | +6     |  近战武器的击退几率更小。减轻体重  |  力量-2  |
-| ![](/images/traits/trait_hardofhearing.png) | 聋子、伶俐的耳朵 | 麻木 | +2     |  更小的感知半径、听力范围较小  |  -%  |
+| ![](/images/traits/trait_hardofhearing.png) | 听力不好 | 聋子、伶俐的耳朵 | 麻木 | +2     |  更小的感知半径、听力范围较小  |  -  |
 | ![](/images/traits/trait_heartyappitite.png) | 食欲旺盛 | 轻食族 | +4     |  需要经常吃东西  |  150％的食物消耗  |
 | ![](/images/traits/trait_hemophobic.png) | 恐惧症 | 麻木 | +3     |  对自己进行急救时恐慌、不能对他人进行急救  |  -  |
 | ![](/images/traits/trait_highthirst.png) | 易口渴 | 不易口渴 | +6     |  需要更多的水才能生存  |  200%的水消耗  |
@@ -117,12 +117,12 @@
 | ![](/images/traits/trait_slowhealer.png) | 恢复缓慢 | 快速恢复	 | +6     |  从伤病中缓慢恢复  |  -  |
 | ![](/images/traits/trait_slowlearner.png) | 理解差 | 快速学习 | +6     |  经验值手机减少  |  角色获得的经验-30%  |
 | ![](/images/traits/trait_slowreader.png) | 阅读慢 | 理解较快、文盲 | +2     |  花更长的时间看书  |  看书时间+30%  |
-| ![](/images/traits/trait_sundaydriver.png) | 新司机 | 老司机 | +1     |  非常慢的司机  |  使车辆减速40%、最高时速为30km/h  |
+| ![](/images/traits/trait_sundaydriver2.png) | 新司机 | 老司机 | +1     |  非常慢的司机  |  使车辆减速40%、最高时速为30km/h  |
 | ![](/images/traits/trait_thinskinned.png) | 防御力差 | 厚外皮 | +6     |  增加感染风险  |  35%(10%)被抓伤的机率和8.75%(2.5%)被咬的机率（当没有穿衣服）  |
 | ![](/images/traits/trait_underweight.png) | 体格较差 | 肥胖者、肥胖症患者、体格极差 | +6     |  力量低，耐力低，容易受伤  |  起始体重为60，仅存在于体重在50和65之间  |
-| ![](/images/traits/trait_unfit.png) | 体格不佳 | 运动健将、业余运动员、身体不好、肥胖者、肥胖症患者 | +10     |  在非常恐慌的时候动作会变的比平时更快  |  移动速度提高10%  |
-| ![](/images/traits/trait_unlucky.png) | 坏运气 | 幸运 | +4     |  在非常恐慌的时候动作会变的比平时更快  |  移动速度提高10%  |
-| ![](/images/traits/trait_very_underweight.png) | 体格极差 | 肥胖者、肥胖症患者、体格较差 | +10     |  在非常恐慌的时候动作会变的比平时更快  |  移动速度提高10%  |
+| ![](/images/traits/trait_unfit.png) | 体格不佳 | 运动健将、业余运动员、身体不好、肥胖者、肥胖症患者 | +10     |  极低的耐力，耐力恢复速度极慢  |  健康-4  |
+| ![](/images/traits/trait_unlucky.png) | 坏运气 | 幸运 | +4     |  在非常恐慌的时候动作会变的比平时更快  |  发现稀有战利品几率-10％、修复失败几率+5％，不影响被感染几率  |
+| ![](/images/traits/trait_very_underweight.png) | 体格极差 | 肥胖者、肥胖症患者、体格较差 | +10     |  极轻的体重，极低的耐力并容易受伤  |  起始体重为60，仅存在于体重50和65之间  |
 | ![](/images/traits/trait_weak.png) | 虚弱 | 壮硕、强壮、软弱 | +10     |  近战武器的击退更少。减轻体重  |  力量-5  |
 | ![](/images/traits/trait_weakstomach.png) | 肠胃不好 | 脾胃强健 | +3     |  患食物疾病的几率更高  |  患食物病的机率+100%  |
 
