@@ -119,10 +119,10 @@
 | ![](/images/traits/trait_slowreader.png) | 阅读慢 | 理解较快、文盲 | +2     |  花更长的时间看书  |  看书时间+30%  |
 | ![](/images/traits/trait_sundaydriver2.png) | 新司机 | 老司机 | +1     |  非常慢的司机  |  使车辆减速40%、最高时速为30km/h  |
 | ![](/images/traits/trait_thinskinned.png) | 防御力差 | 厚外皮 | +6     |  增加感染风险  |  35%(10%)被抓伤的机率和8.75%(2.5%)被咬的机率（当没有穿衣服）  |
-| ![](/images/traits/trait_underweight.png) | 体格较差 | 肥胖者、肥胖症患者、体格极差 | +6     |  力量低，耐力低，容易受伤  |  起始体重为60，仅存在于体重在50和65之间  |
+| ![](/images/traits/trait_underweight.png) | 体格较差 | 肥胖者、肥胖症患者、体格极差 | +6     |  力量低，耐力低，容易受伤  |  起始体重为70，仅出现在体重65和75之间。  |
 | ![](/images/traits/trait_unfit.png) | 体格不佳 | 运动健将、业余运动员、身体不好、肥胖者、肥胖症患者 | +10     |  极低的耐力，耐力恢复速度极慢  |  健康-4  |
 | ![](/images/traits/trait_unlucky.png) | 坏运气 | 幸运 | +4     |  在非常恐慌的时候动作会变的比平时更快  |  发现稀有战利品几率-10％、修复失败几率+5％，不影响被感染几率  |
-| ![](/images/traits/trait_very_underweight.png) | 体格极差 | 肥胖者、肥胖症患者、体格较差 | +10     |  极轻的体重，极低的耐力并容易受伤  |  起始体重为60，仅存在于体重50和65之间  |
+| ![](/images/traits/trait_very_underweight.png) | 体格极差 | 肥胖者、肥胖症患者、体格较差 | +10     |  极轻的体重，极低的耐力并容易受伤  |  起始体重为60，仅出现在于体重50和65之间  |
 | ![](/images/traits/trait_weak.png) | 虚弱 | 壮硕、强壮、软弱 | +10     |  近战武器的击退更少。减轻体重  |  力量-5  |
 | ![](/images/traits/trait_weakstomach.png) | 肠胃不好 | 脾胃强健 | +3     |  患食物疾病的几率更高  |  患食物病的机率+100%  |
 
