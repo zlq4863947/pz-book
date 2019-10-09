@@ -13,8 +13,9 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "gitbook serve",
-    "deploy": "git subtree push --prefix _book origin gh-pages"
+    "build": "gitbook build",
+    "deploy": "git subtree push --prefix _book origin gh-pages",
+    "start": "gitbook serve"
   },
   "repository": {
     "type": "git",
