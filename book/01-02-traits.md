@@ -46,7 +46,7 @@
 | ![](/images/traits/trait_keenhearing.png) | 伶俐的耳朵 | 聋子、听力不好 | -6     |  较大的感知半径  |  -  |
 | ![](/images/traits/trait_lighteater.png) | 轻食族 | 食欲旺盛 | -4     |  比普通人消耗更少的食物,不容易饿  |  食物消耗-75%  |
 | ![](/images/traits/trait_lowthirst.png) | 不易口渴 | 易口渴 | -4     |  只需要少量的水即可生存  |  水消耗-50%  |
-| ![](/images/traits/trait_lucky.png) | 幸运 | 倒霉 | -4     |  谁知道这种时候运气还有什么用呢,也许能让你获得更多的资源~  |  发现稀有战利品的几率是+10%、修复失败的几率是-5%、不影响被感染几率 |
+| ![](/images/traits/trait_lucky.png) | 幸运 | 倒霉 | -4     |  谁知道这种时候运气还有什么用呢,也许能让您获得更多的资源~  |  发现稀有战利品的几率是+10%、修复失败的几率是-5%、不影响被感染几率 |
 | ![](/images/traits/trait_organized.png) | 有条理 | 缺乏条理 | -6     |  增加背包/容器的容量  |  +30%的容量用于所有容器，包括盒子和橱柜  |
 | ![](/images/traits/trait_outdoorsman.png) | 野外生存者 | - | -2     |  不受恶劣天气条件的影响  |  站在雨中不会使角色生病   |
 | ![](/images/traits/trait_resilient.png) | 坚毅生命力 | 抵抗力差 | -4     |  不容易生病。僵尸化几率更低  |  感染率-70%  |
