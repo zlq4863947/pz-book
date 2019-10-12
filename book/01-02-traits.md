@@ -103,7 +103,7 @@
 | ![](/images/traits/trait_heartyappitite.png) | 食欲旺盛 | 轻食族 | +4     |  需要经常吃东西  |  150％的食物消耗  |
 | ![](/images/traits/trait_hemophobic.png) | 恐惧症 | 麻木 | +3     |  对自己进行急救时恐慌、不能对他人进行急救  |  -  |
 | ![](/images/traits/trait_highthirst.png) | 易口渴 | 不易口渴 | +6     |  需要更多的水才能生存  |  200%的水消耗  |
-| ![](/images/traits/trait_hypercondriac.png) | 抵抗力弱 | - | +2     |  未被感染也可能发生感染症状  |  -  |
+| ![](/images/traits/trait_hypercondriac.png) | 疑病症患者 | - | +2     |  未被感染也可能出现感染症状  |  -  |
 | ![](/images/traits/trait_illiterate.png) | 文盲 | 理解较快、阅读慢 | +8     |  看不懂书  |  -  |
 | ![](/images/traits/trait_out of shape.png) | 身体不好 | 运动健将、业余运动员、肥胖者、肥胖症患者、体格不佳 | +6     |  低耐力，耐力恢复慢  |  健康-2  |
 | ![](/images/traits/trait_obese.png) | 肥胖者 | 运动健将、业余运动员、身体不好、肥胖症患者、体格不佳 | +10     |  跑步速度降低，耐力非常低，容易受伤  |  起始体重为105，仅存在于100以上时。仅改变适应性，间接改变耐力  |

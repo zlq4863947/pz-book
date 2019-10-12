@@ -11,9 +11,8 @@
 - [1-1、职业](book/01-01-profession.md)
 - [1-2、特性](book/01-02-traits.md)
 - [1-3、技能](book/01-03-skills.md)
-- [1-4、合成](book/01-04-crafting.md)
-- [1-5、状态](book/01-04-exploitation2.md)
-- [1-6、健康状况](book/02-04-facility.md)
+- [1-4、情绪状态](book/01-04-moodles.md)
+- [1-5、健康状况](book/01-05-health.md)
 
 ---
 
