@@ -6,32 +6,32 @@
 
 ## 情绪状态一览
 
-- [出血](#出血)
-- [无聊](#无聊)
-- [感冒](#感冒)
-- [死了](#死了)
-- [喝醉了](#喝醉了)
-- [疲惫](#疲惫)
-- [重负荷](#重负荷)
-- [体温过高](#体温过高)
-- [体温过低](#体温过低)
-- [淋湿](#淋湿)
-- [风寒](#风寒)
-- [饥饿](#饥饿)
+- [出血 ![](/images/moodle/Moodle_Icon_Bleeding.png)](#出血)
+- [无聊 ![](/images/moodle/Moodle_Icon_Bored.png)](#无聊)
+- [感冒 ![](/images/moodle/Moodle_Icon_Cold.png)](#感冒)
+- [死了 ![](/images/moodle/Moodle_Icon_Dead.png)](#死了)
+- [喝醉了 ![](/images/moodle/Moodle_Icon_Drunk.png)](#喝醉了)
+- [疲惫 ![](/images/moodle/Moodle_Icon_Endurance.png)](#疲惫)
+- [重负荷 ![](/images/moodle/Moodle_Icon_HeavyLoad.png)](#重负荷)
+- [体温过高 ![](/images/moodle/Moodle_hyperthermia.png)](#体温过高)
+- [体温过低 ![](/images/moodle/Moodle_hypothermia.png)](#体温过低)
+- [淋湿 ![](/images/moodle/Moodle_Icon_Wet.png)](#淋湿)
+- [风寒 ![](/images/moodle/Moodle_Icon_Windchill.png)](#风寒)
+- [饥饿 ![](/images/moodle/Moodle_Icon_Hungry.png)](#饥饿)
     - [负面饥饿情绪](#负面饥饿情绪)
     - [正面饥饿情绪](#正面饥饿情绪)
-- [受伤](#受伤)
-- [疼痛](#疼痛)
-- [恐慌](#恐慌)
-- [生病](#生病)
-- [压力](#压力)
-- [口渴](#口渴)
-- [疲劳](#疲劳)
-- [不开心](#不开心)
-- [尸化](#尸化)
+- [受伤 ![](/images/moodle/Moodle_Icon_Injured.png)](#受伤)
+- [疼痛 ![](/images/moodle/Moodle_Icon_Pain.png)](#疼痛)
+- [恐慌 ![](/images/moodle/Moodle_Icon_Panic.png)](#恐慌)
+- [生病 ![](/images/moodle/Moodle_Icon_Sick.png)](#生病)
+- [紧张 ![](/images/moodle/Moodle_Icon_Stressed.png)](#紧张)
+- [口渴 ![](/images/moodle/Moodle_Icon_Thirsty.png)](#口渴)
+- [疲劳 ![](/images/moodle/Moodle_Icon_Tired.png)](#疲劳)
+- [忧郁 ![](/images/moodle/Moodle_Icon_Unhappy.png)](#忧郁)
+- [尸化 ![](/images/moodle/Moodle_Icon_Zombie.png)](#尸化)
 - [已被删除/未来的状态](#已被删除未来的状态)
-    - [愤怒](#愤怒)
-    - [宿醉](#宿醉)
+    - [愤怒 ![](/images/moodle/Moodle_Icon_Angry.png)](#愤怒)
+    - [宿醉 ![](/images/moodle/Moodle_Icon_Hungover.png)](#宿醉)
 
 
 ## 出血![](/images/moodle/Moodle_Icon_Bleeding.png)
@@ -66,7 +66,7 @@
 
 可以通过阅读书籍、杀死僵尸或花时间去户外活动，来消除此状态。
 
-随着情绪的加重，也会有变得**不开心**的风险。
+随着情绪的加重，也会有变得**忧郁**的风险。
 
 #### 有点无聊
     找些事来打发时间.
@@ -92,7 +92,7 @@
 
 要治疗感冒，请务必多吃，以充分利用饱食所带来的治疗加成。
 
-随着情绪的加重，也会有变得**不开心**的风险。
+随着情绪的加重，也会有变得**忧郁**的风险。
 
 #### 流鼻涕
     偶尔打喷嚏。
@@ -430,7 +430,7 @@
     死亡的危险增加
     角色正遭受严重的疾病折磨，最终将死于没有饱食和充足的睡眠。
 
-## 压力![](/images/moodle/Moodle_Icon_Stressed.png)
+## 紧张![](/images/moodle/Moodle_Icon_Stressed.png)
 
 当玩家生病，被僵尸包围，在夜里从惊恐中醒来，或者有一段时间不吸烟的时候，压力情绪就会出现。
 
@@ -502,7 +502,7 @@
     有晕倒的可能
     角色非常疲倦
 
-## 不开心![](/images/moodle/Moodle_Icon_Unhappy.png)
+## 忧郁![](/images/moodle/Moodle_Icon_Unhappy.png)
 
 此状态表示玩家需要饮水。长时间不喝水最终会降低玩家的负重能力，并在大约一天半后死亡。
 

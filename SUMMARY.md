@@ -18,7 +18,7 @@
 
 ## 2、技能指南
 
-- [2-1、木工](book/02-01-agriculture.md)
+- [2-1、木工](book/02-01-carpentry.md)
 - [2-2、烹饪](book/02-02-business.md)
 - [2-3、农业](book/02-03-people.md)
 - [2-4、医疗](book/02-04-exploitation2.md)
@@ -28,13 +28,13 @@
 
 ## 3、物品
 
-- [3-1、服装](book/03-01-peasant-soldier-infantry.md)
-- [3-2、武器](book/03-02-tactics.md)
-- [3-3、书籍](book/03-03-array.md)
-- [3-4、医疗物品](book/03-03-double-headed-dragon.md)
-- [3-5、食品](book/03-03-five-colors-prepare.md)
+- [3-1、背包衣物](book/03-01-clothing.md)
+- [3-2、武器](book/03-02-weapons.md)
+- [3-3、书籍](book/03-03-literature.md)
+- [3-4、医疗物品](book/03-04-medicine.md)
+- [3-5、食品](book/03-05-food.md)
 - [3-6、家具](book/UDF.md)
-- [3-7、车辆](book/UDF.md)
+- [3-7、车辆](book/03-07-vehicles.md)
 - [3-8、其他](book/Symbology.md)
 
 ## 4、地图
